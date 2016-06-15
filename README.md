@@ -1,4 +1,4 @@
-# TOEIC_Learning_Software
+# TOEIC Software
 
 ## Introduction
 
@@ -20,5 +20,5 @@
 
 ## Development
 
-* The tool is made by MFC of Visual Studio based on C/C++ programming.
+* https://github.com/zxc2694/TOEIC_Software_Development
 
