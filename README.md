@@ -20,7 +20,7 @@
 
 * 按下右邊綠色Clone or download => Download ZIP 即可下載。 
 
-* 打開Install資料夾，安裝vcredist_x86.exe"(https://www.microsoft.com/zh-TW/download/details.aspx?id=40784)  
+* 打開Install資料夾，安裝[vcredist_x86.exe](https://www.microsoft.com/zh-TW/download/details.aspx?id=40784)  
 
 * 再打開TOEIC.exe 即可使用。
 
