@@ -14,9 +14,9 @@
 
 * Download [TOEIC.exe.] (https://github.com/zxc2694/TOEIC_Learning_Software/releases)
 
-<img src = "http://i.imgur.com/Bj1AEEs.png" width=1000>
+<img src = "http://imgur.com/U6hu47c.png" width=1000>
 
-<img src = "http://i.imgur.com/0HJscUx.png" width=600>
+<img src = "http://imgur.com/1wfbIpE.png" width=1000>
 
 ## Development
 
